@@ -1,3 +1,10 @@
+DMY_BINDING_PHRASE="baytbayt"
+-DRegulatory_Domain_EU_868
+-DAUTO_WIFI_ON_INTERVAL="60"
+-DUART_INVERTED
+
+
+
 ### The Legal Stuff ###
 
 # The use and operation of this type of device may require a license and some countries may forbid its use entirely.
